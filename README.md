@@ -1,3 +1,3 @@
 # practice-test
 
-just practice
+first repo for github workshop
